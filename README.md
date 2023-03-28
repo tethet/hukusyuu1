@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+03/28 学習内容
+tarminalでpythonを導入
+VS Codeでgitと連携しようと調べ物をしている。
+これから進めるが終わり次第、明日学習するための参考資料を見つけて就寝する
